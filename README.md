@@ -1,5 +1,4 @@
 # Test_package
-Test
 
 What do you need to run test:- chrome (latest version than 80),- python (the latest version),- pip,- probably without downloading the chrome driver a test will work, but if not, you will also have to download chrome driver (version 96.0.4664)
 What to do?
