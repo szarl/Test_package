@@ -12,5 +12,5 @@ What to do?
 Type python SourcefulTest.py for console test \n
 6.2. Full test:
 1) Run python environment.
-2) 2) Open downloaded project.
-3) 3) Run main.
+2) Open downloaded project.
+3) Run main.
