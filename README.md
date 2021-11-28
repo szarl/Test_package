@@ -7,9 +7,9 @@ What to do?
 2. Unpack it
 3. Open cmd
 4. Type pip install webdriver_manager
-5. cd upacked folder
+5. cd upacked folder \n
 6.1.Console test: 
-Type python SourcefulTest.py for console test
+Type python SourcefulTest.py for console test \n
 6.2. Full test:
 1) Run python environment.
 2) 2) Open downloaded project.
